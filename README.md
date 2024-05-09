@@ -1,4 +1,4 @@
-# Welcome to KoKoMaDaKaSka's GitHub Playground! 🎉
+# KoKoMaDaKaSka's GitHub Account! 🎉
 
 ## About Me
 
