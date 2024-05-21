@@ -6,6 +6,3 @@ Just your friendly neighborhood coder trying to navigate the digital maze withou
 
 - **Project "World Domination"**: Currently in beta. Once I figure out how to make a Hello World program, the world is next!
 - **Project "Coffee Overflow"**: A collection of code snippets and hacks that keep me awake through those long coding nights. ☕️💻
-
-
-
