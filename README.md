@@ -1,6 +1,6 @@
 # KoKoMaDaKaSka's GitHub Account! 🎉
 ## About Me
-Just your friendly neighborhood coder trying to navigate the digital maze without getting lost in a sea of curly braces and semicolons. Let's embark on this coding adventure together! 💻🚀
+Just a dude writing text using random English words and symbols in fancy colors. 💻🚀
 
 ## Projects
 
